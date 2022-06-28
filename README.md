@@ -1,6 +1,7 @@
 # CarrierPigeon
-Encrypted messaging platform
+covert messaging platform
 
-As of 6/27/2022
-still incomplete
-messages are sent but not decrypted on the recieving side
+As of 6/28/2022
+
+finished
+messages are not encrypted over the network but it was still a fun project
